@@ -30,23 +30,21 @@ Instagram like app that allows users to post photos of their dogs and allows fol
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
+### 1. User Stories 
 
-**Required Must-have Stories**
+**Stories**
 
 *  [x]login/logout/signup
 *  [x]stay logged in across restarts
 *  [x]scroll through feed of other users post
 *  [x]post a photo
 *  [x]comments
-*  
-* ...
 
-**Optional Nice-to-have Stories**
+
+**Nice-to-haves**
 
 * profile tab
 * profile photo
-* ...
 
 ### 2. Screen Archetypes
 
@@ -65,8 +63,6 @@ Instagram like app that allows users to post photos of their dogs and allows fol
 **Tab Navigation** (Tab to Screen)
 
 * 2 tabs: feed, profile
-
-
 
 **Flow Navigation** (Screen to Screen)
 
