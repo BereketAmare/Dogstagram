@@ -21,8 +21,6 @@ https://hackmd.io/1kGLHJQnRsWv8mEe-K0C_g
 ### Description
 Instagram like app that allows users to post photos of their dogs and allows followers to interact with posts. 
 
-### App Evaluation
-
 - **Category:** Social
 - **Mobile:** Allows users to post and view photos
 - **Story:** Allows users to share cute photos of their dogs to their friends
@@ -86,9 +84,9 @@ Instagram like app that allows users to post photos of their dogs and allows fol
 ## Wireframes
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
+###  Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
+###  Interactive Prototype
 
 ### Networking
 - [Add list of network requests by screen ]
