@@ -1,4 +1,3 @@
-# Dogstagram
 
 Final Product
 
@@ -8,10 +7,9 @@ Final Product
 
 https://hackmd.io/1kGLHJQnRsWv8mEe-K0C_g
 
-Original App Design Project - README Template
-===
 
-# APP_NAME_HERE
+
+# Dogstagram
 
 ## Table of Contents
 1. [Overview](#Overview)
